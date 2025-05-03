@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-CSE(AI%20%26%20ML)-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML-Enthusiast-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Projects%20in-YOLOv5,%20PyTorch,%20CNN,%20NLP-pink?style=flat-square" />
 </p>
 
