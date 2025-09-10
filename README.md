@@ -21,7 +21,7 @@
 
 - 🎓 I’m currently pursuing a **B.Tech in CSE (Specialization in Artificial Intelligence & Machine Learning)**
 - 📊 Strong passion for **Data Science, Machine Learning, and NLP**, with a focus on solving real-world problems using data-driven insights  
-- 🛠️ Experienced in building projects across domains like **computer vision, natural language processing, predictive analytics, and healthcare AI**  
+- 🛠️ Experienced in building projects across domains like **computer vision, NLP, predictive analytics, and healthcare AI**  
 - 🌱 Currently exploring **transformers, deep learning architectures, relation extraction in NLP, and AI-driven decision-making systems**  
 - 🌍 Keen interest in applying AI to domains like **legal technology, healthcare, smart agriculture, and business analytics**  
 - 🤝 Open to collaborations in **AI/ML projects, data science applications, and applied NLP**  
