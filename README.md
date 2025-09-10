@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-CSE(AI%20%26%20ML)-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/ML-Enthusiast-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Projects%20in-YOLOv5,%20PyTorch,%20CNN,%20NLP-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects%20in-Deep%20Learning,%20NLP,%20Data%20Science-pink?style=flat-square" />
 </p>
 
 <p align="center">
@@ -17,29 +17,34 @@
 
 ---
 
-### 👨‍💻 About Me:
+### 👩‍💻 About Me
 
 - 🎓 I’m currently pursuing a **B.Tech in CSE (Specialization in Artificial Intelligence & Machine Learning)**
-- 📊 I have a strong interest in **Data Science**, and **Machine Learning**, and I enjoy working with data to gain insights and solve real-world problems
-- 👨‍🔬 I love applying ML techniques in projects like **drowsiness detection**, **plant disease detection**, and **language detection**
-- 🌱 I’m currently exploring advanced topics like **transformers**, **deep learning**, and **AI-driven decision-making systems**
-- 🌍 Passionate about building AI solutions for areas like **legal technology**, **smart agriculture**, **biomedical research**, and **business analytics**
-- 🤝 Open to collaborations on **AI/ML** and **data science** projects!
+- 📊 Strong passion for **Data Science, Machine Learning, and NLP**, with a focus on solving real-world problems using data-driven insights  
+- 🛠️ Experienced in building projects across domains like **computer vision, natural language processing, predictive analytics, and healthcare AI**  
+- 🌱 Currently exploring **transformers, deep learning architectures, relation extraction in NLP, and AI-driven decision-making systems**  
+- 🌍 Keen interest in applying AI to domains like **legal technology, healthcare, smart agriculture, and business analytics**  
+- 🤝 Open to collaborations in **AI/ML projects, data science applications, and applied NLP**  
 
 ---
 
-### ⚙️ Tools & Technologies:
+### ⚙️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat-square&logo=pytorch)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat-square&logo=huggingface)
 ![YOLO](https://img.shields.io/badge/-YOLO-333333?style=flat-square&logo=yolo)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat-square&logo=streamlit)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat-square&logo=huggingface)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat-square&logo=numpy)
-![CNN](https://img.shields.io/badge/-CNN-333333?style=flat-square&logo=neural-networks)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat-square&logo=scikit-learn)
 ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat-square&logo=nlp)
+![CNN](https://img.shields.io/badge/-CNN-333333?style=flat-square&logo=neural-networks)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat-square&logo=overleaf)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazon)
 
 ---
